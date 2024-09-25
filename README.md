@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Synopsis](#synopsis)
-- [Synopsis](#warnings)
+- [Warnings](#warnings)
 - [Open source key projects](#opensource-key-projects)
   - [Financial Computing](#financial-computing)
   - [Smart Contracts](#smart-contracts)
