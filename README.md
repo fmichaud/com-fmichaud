@@ -7,6 +7,7 @@
 - [Warnings](#warnings)
 - [Open source key projects](#opensource-key-projects)
   - [Financial Computing](#financial-computing)
+    - [Technical Analysis](#technical-analysis)
   - [Smart Contracts](#smart-contracts)
 - [Private key projects](#private-key-projects)
 - [Various open source utilities](#various-utilities)
@@ -18,30 +19,34 @@ This portfolio provides a quick and unpolished overview of some key projects and
 
 ## <a name="warnings" />Warnings
 
-- ✅ Indicates that the project is functional and can be used as is.
-- 🚧 Indicates that the project is a work in progress and under development.
-- ❌ Indicates that the project is currently non-functional.
+- ✅ Indicates that the project is **functional** and can be used as is.
+- 🚧 Indicates that the project is a **work in progress** and under development.
+- ❌ Indicates that the project **is currently non-functional**.
 
 ## <a name="opensource-key-projects"></a>Open source key projects
 
 ### <a name="financial-computing"></a>Financial Computing
 
-- **[Docker Python TA-LIB](https://github.com/tamia-team/docker-python-ta-lib)**: a Docker image that includes TA-LIB for performing technical analysis with Python.
-- **[Docker Python TA-LIB Pandas](https://github.com/tamia-team/docker-python-ta-lib-pandas)**: a Docker image featuring TA-LIB and Pandas, enabling technical analysis using Python.
+#### <a name="technical-analysis"></a>Technical analysis
+
+- ✅ **📈 [Docker Python TA-LIB](https://github.com/tamia-team/docker-python-ta-lib)**: a Docker image that includes TA-LIB for performing technical analysis with Python.
+- ✅ **📈 [Docker Python TA-LIB Pandas](https://github.com/tamia-team/docker-python-ta-lib-pandas)**: a Docker image featuring TA-LIB and Pandas, enabling technical analysis using Python.
 
 ### <a name="smart-contracts"></a>Smart Contracts
 
-#### [Fair Fabric](https://github.com/fairfabric/)
+#### 🏭 [Fair Fabric](https://github.com/fairfabric/) (🚧 WIP)
 
-🚧 **[Fair Fabric](https://github.com/fairfabric/)**: A fully decentralized on-chain platform for managing evolving teams in collaborative development projects, rewarding contributors with tokens for their participation and code contributions.
+**[Fair Fabric](https://github.com/fairfabric/)**: A fully decentralized on-chain platform for managing evolving teams in collaborative development projects, rewarding contributors with tokens for their participation and code contributions.
 
 Related subprojects:
 
-🚧 - **[$FAIRFAB-PROJECT Smart Contract](https://github.com/fairfabric/fairfab-project-contract)**: FairFabProject Token (FAIRFAB-P) is an ERC-721 NFT representing ownership of a project within the FairFabric ecosystem. This contract emphasizes decentralization, on-chain governance, solidarity economy, and the freedom of exchange within the FairFabric ecosystem, ensuring flexibility and growth potential.
+- **[$FAIRFAB-PROJECT Smart Contract](https://github.com/fairfabric/fairfab-project-contract)**: FairFabProject Token (FAIRFAB-P) is an ERC-721 NFT representing ownership of a project within the FairFabric ecosystem. This contract emphasizes decentralization, on-chain governance, solidarity economy, and the freedom of exchange within the FairFabric ecosystem, ensuring flexibility and growth potential.
  
 ## <a name="private-key-projects"></a>Private key projects
 
-- 🚧👾 **[Social Invaders](https://invaders.social)** is an automated content generation and publication solution for social networks. 
+### 👾 [Social Invaders](https://invaders.social) (🚧 WIP) 
+
+**[Social Invaders](https://invaders.social)** is an automated content generation and publication solution for social networks. 
  
 ## <a name="various-utilities" />Various open source utilities: scripts and useful tools 
 
