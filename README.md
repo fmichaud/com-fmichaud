@@ -2,7 +2,31 @@
 
 📚 A quick and dirty glimpse of @fmichaud's key projects and developments...
 
-## Licence
+## Table of Contents
+- [Synopsis](#synopsis)
+- [Key Projects](#key-projects)
+  - [Financial Computing](#financial-computing)
+  - [Smart Contracts](#smart-contracts)
+
+## <a name="synopsis"></a>Synopsis
+This portfolio provides a quick and unpolished overview of some key projects and developments by @fmichaud, spanning from financial computing to blockchain-based smart contracts. Each project highlights my focus on leveraging Python, Docker, and decentralized technologies to create flexible, scalable solutions.
+
+## <a name="key-projects"></a>Key Projects
+
+### <a name="financial-computing"></a>Financial Computing
+- **[Docker Python TA-LIB](https://github.com/tamia-team/docker-python-ta-lib)**: a Docker image that includes TA-LIB for performing technical analysis with Python.
+- **[Docker Python TA-LIB Pandas](https://github.com/tamia-team/docker-python-ta-lib-pandas)**: a Docker image featuring TA-LIB and Pandas, enabling technical analysis using Python.
+
+### <a name="smart-contracts"></a>Smart Contracts
+
+#### [Fair Fabric](https://github.com/fairfabric/)
+- **[Fair Fabric](https://github.com/fairfabric/)**: A fully decentralized on-chain platform for managing evolving teams in collaborative development projects, rewarding contributors with tokens for their participation and code contributions.
+
+  Related subprojects:
+  - **[$FAIRFAB-PROJECT Smart Contract](https://github.com/fairfabric/fairfab-project-contract)**: FairFabProject Token (FAIRFAB-P) is an ERC-721 NFT representing ownership of a project within the FairFabric ecosystem. This contract emphasizes decentralization, on-chain governance, solidarity economy, and the freedom of exchange within the FairFabric ecosystem, ensuring flexibility and growth potential.
+
+
+## <a name="license"></a> License
 
 >
 > Creative Commons Legal Code  
