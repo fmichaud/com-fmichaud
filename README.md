@@ -7,6 +7,7 @@
 - [Key Projects](#key-projects)
   - [Financial Computing](#financial-computing)
   - [Smart Contracts](#smart-contracts)
+- [License](#license)
 
 ## <a name="synopsis"></a>Synopsis
 This portfolio provides a quick and unpolished overview of some key projects and developments by @fmichaud, spanning from financial computing to blockchain-based smart contracts. Each project highlights my focus on leveraging Python, Docker, and decentralized technologies to create flexible, scalable solutions.
