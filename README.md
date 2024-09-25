@@ -42,7 +42,7 @@ This portfolio offers a broad and informal overview of key projects and developm
 
 Related subprojects:
 
-- **[$FAIRFAB-PROJECT Smart Contract](https://github.com/fairfabric/fairfab-project-contract)**: FairFabProject Token (FAIRFAB-P) is an ERC-721 NFT representing ownership of a project within the FairFabric ecosystem. This contract emphasizes decentralization, on-chain governance, solidarity economy, and the freedom of exchange within the FairFabric ecosystem, ensuring flexibility and growth potential.
+- **[$FAIRFAB-PROJECT Smart Contract](https://github.com/fairfabric/fairfab-project-contract)**: FairFabProject Token is an ERC-721 NFT representing ownership of a project within the FairFabric ecosystem. This contract emphasizes decentralization, on-chain governance, solidarity economy, and the freedom of exchange within the FairFabric ecosystem, ensuring flexibility and growth potential.
  
 ## <a name="private-key-projects"></a>Private key projects
 
