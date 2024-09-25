@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Synopsis](#synopsis)
-- [Warnings](#warnings)
+- [Project status](#project-status)
 - [Open source key projects](#opensource-key-projects)
   - [Financial Computing](#financial-computing)
     - [Technical Analysis](#technical-analysis)
@@ -15,12 +15,12 @@
 
 ## <a name="synopsis"></a>Synopsis
 
-This portfolio provides a quick and unpolished overview of some key projects and developments by @fmichaud, spanning from financial computing to blockchain-based smart contracts. Each project highlights my focus on leveraging Python, Docker, and decentralized technologies to create flexible, scalable solutions.
+This portfolio offers a broad and informal overview of key projects and developments by @fmichaud, covering a wide range of areas including AI, blockchain, data, Python, DevOps, cloud computing, CI/CD, containerization, and more.
 
-## <a name="warnings" />Warnings
+## <a name="project-status" />⚠️ Project status
 
 - ✅ Indicates that the project is **functional** and can be used as is.
-- 🚧 Indicates that the project is a **work in progress** and under development.
+- 🚧 Indicates that the project is a **work in progress** (WIP) and under development.
 - ❌ Indicates that the project **is currently non-functional**.
 
 ## <a name="opensource-key-projects"></a>Open source key projects
@@ -30,7 +30,9 @@ This portfolio provides a quick and unpolished overview of some key projects and
 #### <a name="technical-analysis"></a>Technical analysis
 
 - ✅ **📈 [Docker Python TA-LIB](https://github.com/tamia-team/docker-python-ta-lib)**: a Docker image that includes TA-LIB for performing technical analysis with Python.
+  - Published image on [Docker Hub](https://hub.docker.com/r/deepnox/python-ta-lib/tags) 
 - ✅ **📈 [Docker Python TA-LIB Pandas](https://github.com/tamia-team/docker-python-ta-lib-pandas)**: a Docker image featuring TA-LIB and Pandas, enabling technical analysis using Python.
+  - Published image on [Docker Hub](https://hub.docker.com/r/deepnox/python-ta-lib-pandas/tags)
 
 ### <a name="smart-contracts"></a>Smart Contracts
 
@@ -44,9 +46,11 @@ Related subprojects:
  
 ## <a name="private-key-projects"></a>Private key projects
 
+⚠️ **Private key projects can be presented upon request after establishing contact and connection.**
+
 ### 👾 [Social Invaders](https://invaders.social) (🚧 WIP) 
 
-**[Social Invaders](https://invaders.social)** is an automated content generation and publication solution for social networks. 
+[Social Invaders](https://invaders.social) is an automated content generation and publication solution for social networks. 
  
 ## <a name="various-utilities" />Various open source utilities: scripts and useful tools 
 
