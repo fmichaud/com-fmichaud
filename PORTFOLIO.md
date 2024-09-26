@@ -21,7 +21,7 @@ This portfolio offers a broad and informal overview of key projects and developm
 
 - ✅ Indicates that the project is **functional** and can be used as is.
 - 🚧 Indicates that the project is a **work in progress** (WIP) and under development.
-- ❌ Indicates that the project **is currently non-functional**.
+- ❌ Indicates that the project **is currently non-functional** (design or developments are not started).
 
 ## <a name="opensource-key-projects"></a>Open source key projects
 
