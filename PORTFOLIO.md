@@ -63,7 +63,7 @@ Related subprojects:
 ## <a name="license"></a> License
 
 >
-> Copyright 2024 François-Xavier Michaud <https://fr.linkedin.com/in/francoisxaviermichaud)
+> Copyright 2024 [François-Xavier Michaud](https://fr.linkedin.com/in/francoisxaviermichaud)
 > 
 > The **Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)** license allows others to share your work as long as they give proper credit, but they cannot modify or create derivatives from it. Below are the main terms of the license:
 > 
