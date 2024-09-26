@@ -9,7 +9,7 @@
   - [Financial Computing](#financial-computing)
     - [Technical Analysis](#technical-analysis)
   - [Smart Contracts](#smart-contracts)
-- [Private key projects](#private-key-projects)
+- [Private/professional key projects](#private-key-projects)
    - [AI Content Generation & Social Networks](#ai-contents-and-social-networks)
 - [Various open source utilities](#various-utilities)
 - [License](#license)
@@ -45,7 +45,7 @@ Related subprojects:
 
 - 🚧 **[$FAIRFAB-PROJECT Smart Contract](https://github.com/fairfabric/fairfab-project-contract)**: FairFabProject Token is an ERC-721 NFT representing ownership of a project within the FairFabric ecosystem. This contract emphasizes decentralization, on-chain governance, solidarity economy, and the freedom of exchange within the FairFabric ecosystem, ensuring flexibility and growth potential.
  
-## <a name="private-key-projects"></a>Private key projects
+## <a name="private-key-projects"></a>Private/professional key projects
 
 ⚠️ **Private key projects can be presented upon request after establishing contact and connection.**
 
