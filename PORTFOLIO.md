@@ -10,6 +10,7 @@
     - [Technical Analysis](#technical-analysis)
   - [Smart Contracts](#smart-contracts)
 - [Private key projects](#private-key-projects)
+   - [AI Content Generation & Social Networks](#ai-contents-and-social-networks)
 - [Various open source utilities](#various-utilities)
 - [License](#license)
 
@@ -38,7 +39,7 @@ This portfolio offers a broad and informal overview of key projects and developm
 
 #### 🏭 [Fair Fabric](https://github.com/fairfabric/) (🚧 WIP)
 
-🚧 **[Fair Fabric](https://github.com/fairfabric/)**: A fully decentralized on-chain platform for managing evolving teams in collaborative development projects, rewarding contributors with tokens for their participation and code contributions.
+❌ **[Fair Fabric](https://github.com/fairfabric/)**: A fully decentralized on-chain platform for managing evolving teams in collaborative development projects, rewarding contributors with tokens for their participation and code contributions.
 
 Related subprojects:
 
@@ -48,9 +49,11 @@ Related subprojects:
 
 ⚠️ **Private key projects can be presented upon request after establishing contact and connection.**
 
-### 👾 [Social Invaders](https://invaders.social) (🚧 WIP) 
+## <a name="ai-contents-and-social-networks">AI Content Generation & Social Networks
 
-[Social Invaders](https://invaders.social) is an automated content generation and publication solution for social networks. 
+#### 👾 [Social Invaders](https://invaders.social) (🚧 WIP) 
+
+🚧 [Social Invaders](https://invaders.social) is an automated content generation and publication solution for social networks using open source frameworks and LLM. 
  
 ## <a name="various-utilities" />Various open source utilities: scripts and useful tools 
 
