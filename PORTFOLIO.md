@@ -26,14 +26,19 @@ This portfolio offers a broad and informal overview of key projects and developm
 
 ## <a name="opensource-key-projects"></a>Open source key projects
 
+### <a name="librairies>Libraries
+
+✅ **✅ [Python FlexCheck](https://github.com/tamia-team/python-flexcheck)**: a modular, extensible data validation library for Python.
+
 ### <a name="financial-computing"></a>Financial Computing
 
 #### <a name="technical-analysis"></a>Technical analysis
 
-- ✅ **📈 [Docker Python TA-LIB](https://github.com/tamia-team/docker-python-ta-lib)**: a Docker image that includes TA-LIB for performing technical analysis with Python.
-  - Published image on [Docker Hub](https://hub.docker.com/r/deepnox/python-ta-lib/tags) 
-- ✅ **📈 [Docker Python TA-LIB Pandas](https://github.com/tamia-team/docker-python-ta-lib-pandas)**: a Docker image featuring TA-LIB and Pandas, enabling technical analysis using Python.
-  - Published image on [Docker Hub](https://hub.docker.com/r/deepnox/python-ta-lib-pandas/tags)
+✅ **📈 [Docker Python TA-LIB](https://github.com/tamia-team/docker-python-ta-lib)**: a Docker image that includes TA-LIB for performing technical analysis with Python.
+Published image on [Docker Hub](https://hub.docker.com/r/deepnox/python-ta-lib/tags) 
+
+✅ **📈 [Docker Python TA-LIB Pandas](https://github.com/tamia-team/docker-python-ta-lib-pandas)**: a Docker image featuring TA-LIB and Pandas, enabling technical analysis using Python.
+Published image on [Docker Hub](https://hub.docker.com/r/deepnox/python-ta-lib-pandas/tags)
 
 ### <a name="smart-contracts"></a>Smart Contracts
 
